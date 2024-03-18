@@ -1,6 +1,6 @@
-# Install Nodejs
+# Install node_modues
 
-Run `npm istall`
+Run `npm install`
 
 # Learnangular
 
