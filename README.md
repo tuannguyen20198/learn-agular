@@ -1,6 +1,6 @@
 # Install node_modues
 
-Run `npm install`
+Run `npm install -g @angular/cli`
 
 # Learnangular
 
